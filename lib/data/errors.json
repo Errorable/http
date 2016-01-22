@@ -125,6 +125,20 @@
     },
     "code": 304
   },
+  "NotFound": {
+    "messages": {
+      "en-US": "Not Found",
+      "zh-CN": "未找到"
+    },
+    "code": 404
+  },
+  "NotAcceptable": {
+    "messages": {
+      "en-US": "Not Acceptable",
+      "zh-CN": "不能接受"
+    },
+    "code": 406
+  },
   "UseProxy": {
     "messages": {
       "en-US": "Use Proxy",
@@ -152,5 +166,68 @@
       "zh-CN": "永久重定向"
     },
     "code": 308
+  },
+  "BadRequest": {
+    "messages": {
+      "en-US": "Bad Request",
+      "zh-CN": "不良请求"
+    },
+    "code": 400
+  },
+  "Unauthorized": {
+    "messages": {
+      "en-US": "Unauthorized",
+      "zh-CN": "未授权"
+    },
+    "code": 401
+  },
+  "PaymentRequired": {
+    "messages": {
+      "en-US": "Payment Required",
+      "zh-CN": "未支付"
+    },
+    "code": 402
+  },
+  "Forbidden": {
+    "messages": {
+      "en-US": "Payment Required",
+      "zh-CN": "未支付"
+    },
+    "code": 403
+  },
+  "MethodNotAllowed": {
+    "messages": {
+      "en-US": "Method Not Allowed",
+      "zh-CN": "方法不允许"
+    },
+    "code": 405
+  },
+  "ProxyAuthenticationRequired": {
+    "messages": {
+      "en-US": "Proxy Authentication Required",
+      "zh-CN": "代理身份验证未通过"
+    },
+    "code": 405
+  },
+  "RequestTimeout": {
+    "messages": {
+      "en-US": "Request Timeout",
+      "zh-CN": "请求超时"
+    },
+    "code": 408
+  },
+  "Conflict": {
+    "messages": {
+      "en-US": "Conflict",
+      "zh-CN": "冲突"
+    },
+    "code": 409
+  },
+  "Gone": {
+    "messages": {
+      "en-US": "Gone",
+      "zh-CN": "离开"
+    },
+    "code": 410
   }
 }
